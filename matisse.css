@@ -1,0 +1,47 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1200px;
+}
+
+.fotoajustada {
+    box-shadow: 0px 10px 26px 1px;
+    color: black;
+    width: 300px;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.titulogrande {
+    font-family: 'Potta One', cursive;
+    font-size: 50px;
+}
+
+.retrato {
+width: 200px;
+float: left;
+margin: 6px;
+margin-right: 40px;
+}
+
+.fotoindice {
+border: rgba(47, 160, 235, 0.733) 3px solid;
+border-radius: 10px;
+width: 500px;
+}
+
+body {
+    background-image: url(https://p3yonline.com/wp-content/uploads/2015/06/Watercolor-Background-Colors-of-Fading-Aquamarine.jpg);
+}
+
+h2 {
+    font-family: 'Potta One', cursive;
+    font-weight: lighter; 
+}
+
+.armoniafont {
+    font-family: 'Potta One', cursive;
+    font-weight: lighter;
+}
